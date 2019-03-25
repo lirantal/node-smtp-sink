@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "smtp-protocol": "0.3.0",
-    "cli": "0.4.4-2"
+    "cli": "1.0.0"
   },
   "bin": "./index.js"
 }
